@@ -105,7 +105,7 @@ Dashboard features:
 
 Dashboard preview:
 
-![Dashboard]("C:\Users\HP\Pictures\Screenshots\solar_flare_analysis_dashboard.png")
+![Dashboard](https://github.com/loveshbhalla30/space-weather-events-analysis/blob/main/Solar%20Flare%20Data%20Analysis/power%20bi/solar_flare_analysis_dashboard.png)
 
 ---
 
@@ -145,5 +145,6 @@ space-weather-events-analysis
 ## 👨‍💻 Author
 
 **Lovesh Bhalla**
+
 
 Aspiring Data Analyst with skills in **Python, SQL, and Power BI**.
